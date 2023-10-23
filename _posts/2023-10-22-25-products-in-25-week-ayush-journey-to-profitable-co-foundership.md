@@ -1,10 +1,7 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+title: 25 Products in 25 Weeks
+subtitle: Ayush's Journey to Profitable Co-Foundership
 tags: [books, test]
 ---
 
