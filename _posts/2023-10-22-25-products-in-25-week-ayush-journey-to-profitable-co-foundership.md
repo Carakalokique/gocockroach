@@ -2,7 +2,6 @@
 layout: post
 title: 25 Products in 25 Weeks
 subtitle: Ayush's Journey to Profitable Co-Foundership
-tags: [books, test]
 ---
 
 After quitting his job two years ago, [Ayush](https://twitter.com/ayushtweetshere) has replaced his salary by freelancing, building 25 products in 25 weeks and advising then joining an AI startup.
