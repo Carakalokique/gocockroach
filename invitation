@@ -1,0 +1,54 @@
+---
+layout: home
+title: Your Invitation
+subtitle: Inspire people with your entrepreneurial journey
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Love the Struggle - Description</title>
+</head>
+<body>
+
+  <aside>
+    <p>💡 You quit your job less than a year or two ago. You manage to replace your income or surpass it. Throughout the journey, you've had to push through struggles. I want to hear about how you overcame those and share the stories to inspire people!</p>
+  </aside>
+
+  <p>It's been quite easy to find people that are way way far down the line and already settled in the game.</p>
+
+  <p>But I've been having a harder time finding content from people that just replaced their income and their journey.</p>
+
+  <h2>The idea 💡</h2>
+  <p>Chat with you on a 45-minute call over the good ol' phone. I don't know about you but I miss the time where I would spend hours on the phone… and the camera makes it feel awkward sometimes. I like to move around while talking!</p>
+
+  <p>After our conversation, I'll grab the transcript and write an article.</p>
+
+  <h2>Sharing 📢</h2>
+  <p>It's still a work in progress. But I'm thinking of starting with socials like Reddit or Twitter to share the article after you've reviewed it. I'd like to test the waters and see if people are interested in this kind of content before making a full-on website or something more formal.</p>
+
+  <h2>The topic 💬</h2>
+  <p>Why you quit your job, your struggles, how you overcame them, how you crafted your offer or made your product.</p>
+
+  <h2>What's next 👋</h2>
+  <p>If you're interested, please shoot me a message on <a href="https://twitter.com/KennyAlami" target="_blank" rel="noopener noreferrer">Twitter</a> and book a time below :)</p>
+
+  <!-- Cal inline embed code begins -->
+<div style="width:100%;height:100%;overflow:scroll" id="my-cal-inline"></div>
+<script type="text/javascript">
+  (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; typeof namespace === "string" ? (cal.ns[namespace] = api) && p(api, ar) : p(cal, ar); return; } p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
+Cal("init", {origin:"https://cal.com"});
+
+  Cal("inline", {
+	elementOrSelector:"#my-cal-inline",
+	calLink: "kennyalami/45-minute-chat",
+	layout: "month_view"
+  });
+  
+  Cal("ui", {"styles":{"branding":{"brandColor":"#000000"}},"hideEventTypeDetails":false,"layout":"month_view"});
+  </script>
+  <!-- Cal inline embed code ends -->
+
+</body>
+</html>
