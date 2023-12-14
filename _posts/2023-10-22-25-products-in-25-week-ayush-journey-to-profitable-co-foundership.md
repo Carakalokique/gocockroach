@@ -175,5 +175,3 @@ My goal now is to consolidate and build something that lasts longer.
 Code has more leverage than content, building a software product is way more valuable than writing an ebook or a course. An ebook or a course will give you a one-time spike and it'll die down. But software is the other way, it takes a while to get to product market fit. But once it gets there, you can experience a hockey stick growth.
 
 You can find Ayush on [Twitter](https://twitter.com/ayushtweetshere), or check out [Super Frameworks](https://superframeworks.com/), [Indie Masterminds](https://indiemasterminds.com/), and [Elephas](https://elephas.app/).
-
-And if you'd like to be featured as a guest in a future interview for this series, let me know in the comments!
